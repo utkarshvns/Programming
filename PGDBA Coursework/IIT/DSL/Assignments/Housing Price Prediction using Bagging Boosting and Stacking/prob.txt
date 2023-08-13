@@ -1,0 +1,23 @@
+Instructions
+The task in this assignment is to predict the price of housing in the city of Boston. The data set is uploaded as a resource housing.data The names of the attributes are also uploaded as a resource housing.names. You wil use scikit learn in this assignment for implementation. The tasks are as follows:
+i. Implement the GradBoost algorithm
+ii. Implement the XGBoost algorithm
+iii. Implement the Decision Tree, Stacking and a Boosted Tree
+iv. Compare the performance of all the above algorithms in the Boston dataset
+
+Submissions:
+A. Implementation files in scikit learn
+B. A report outlining your approaches and a comparison of results
+
+
+
+
+
+
+stcking dec tree
+adaboost dec tree
+xgboost dec tree
+
+change params
+
+results accuracy

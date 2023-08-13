@@ -1,0 +1,3 @@
+In this assignment you will use a SVM to classify emails into spam or non-spam categories. An email is represented by various features like frequency of occurrencesof certain keywords, length of capitalized words etc. A data set containing about 4601 instances are available in this link (data folder):https://archive.ics.uci.edu/ml/datasets/Spambase
+
+The data format is also described in the above link. You have to randomly pick 70% of the data set as training data and the remaining as test data. And report the classification accuracy for various SVM parameters and kernel functions.You have to submit the report file in pdf format reporting the accuracy. The code also needs to be submitted. 

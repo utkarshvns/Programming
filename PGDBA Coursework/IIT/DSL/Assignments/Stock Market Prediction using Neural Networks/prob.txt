@@ -1,0 +1,10 @@
+We will use the CNNPred data set from UCI repository. This dataset contains several daily features of S&P 500, NASDAQ Composite, Dow Jones Industrial Average, RUSSELL 2000, and NYSE Composite from 2010 to 2017. It covers features from various categories of technical indicators, futures contracts, price of commodities, important indices of markets around the world, price of major companies in the U.S. market, and treasury bill rates. You have to predict the stock values based on these parameters. The data set is attached. 
+
+In this assignment you will use Multi Layered Perceptron (MLP) having a single hidden layer for the above prediction task. You need to conduct experiments by varying the following hyperparameters.
+1.Number of nodes in the hidden layer
+2.Activation function
+3.Learning rate
+4.Backprop algorithms (e.g., SGD with varying batch sizes)
+5.Output error function (e.g., Classification error, squared error, cross entropy etc)
+The code implementing the MLP should allow user to provide the above hyperparameter values.
+Besides the code you have to submit a report reporting the accuracy (test set/training set/cross validation) for varipus hyperparameter settings. Also, you may present the plot of convergence of errors with training epochs.
