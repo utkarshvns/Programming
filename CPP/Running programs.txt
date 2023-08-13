@@ -1,0 +1,19 @@
+To build
+
+
+ctrl+shift+b
+
+
+task.json 
+
+"args": [
+                "-g","main.cpp"
+            ],
+
+launch.json
+
+"program": "${workspaceFolder}/a.exe",
+
+
+
+To stop the running code: use shortcut Ctrl+Alt+M
